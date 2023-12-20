@@ -6,6 +6,6 @@
 
 # Credits
 
-* [BlitzDotCS (me!)](https://twitter.com/blitzdotcs) - Modified ver
+* [Nat (me!)](https://twitter.com/natify_) - Modified ver
 
 * [Li (Original Dev!)](https://silica.codes/Li) - Made UGP
